@@ -1,2 +1,11 @@
 # Squared-Tech-Main
+# Tech²: Bring your codes to life 🚀
 **Tech²** is a "merge" of **two** *abandoned* projects i made. They are called "*WebsiteJokes*" and "*Paradox Realm*". Here, we bring your `codes` to **life**.
+
+Our main objective is to help you build your projetcs and codes **without** any difficulty.
+
+🎯 Objective:
+**Help** small programmers to build their *projects* in the most **easy** and **beginner-friendly** possible.
+
+🧑‍💻 Supported languages:
+We support `HTML5`, `CSS`, `JavaScript`, `Python`, `Lua`/`Luau`, `JSON`, `XML`, `C++` and `C-Sharp`. Soon, we will be supporting even **more** `programming` languages.
