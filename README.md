@@ -1,6 +1,6 @@
 # Squared-Tech-Main
-# Tech²: Bring your codes to life 🚀
-**Tech²** is a "merge" of **two** *abandoned* projects i made. They are called "*WebsiteJokes*" and "*Paradox Realm*". Here, we bring your `codes` to **life**.
+# Tech²: Bring your code to life 🚀
+**Tech²** is a "merge" of **two** *abandoned* projects i made. They are called "*WebsiteJokes*" and "*Paradox Realm*". Here, we bring your `code` to **life**.
 
 Our main objective is to help you build your projects and scripts **without** any difficulty.
 
