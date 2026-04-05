@@ -10,7 +10,7 @@ Our main objective is to help you build your projects and scripts **without** an
 
 🧑‍💻 Supported Languages:
 <br>
-We support `HTML5`, `CSS`, `JavaScript`, `Python`, `Lua`/`Luau`, `JSON`, `XML`, `C++` and `C-Sharp`. Soon, we will be supporting even **more** `programming` languages.
+We support `HTML5`, `CSS`, `JavaScript`, `Python`, `Lua`/`Luau`, `JSON`, `XML`, `C++`, `C-Sharp`, `Java`, `PHP` and `SQL`. Soon, we will be supporting even **more** `programming` languages.
 
 📱 Social Media:
 <br>
