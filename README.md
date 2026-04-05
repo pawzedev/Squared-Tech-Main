@@ -18,7 +18,7 @@ We support `HTML5`, `CSS`, `JavaScript`, `Python`, `Lua`/`Luau`, `JSON`, `XML`, 
 <br>
 **E-Mail**: techsquare@protonmail.com
 <br>
-**Discord**: @pawzedev_
+**Discord User**: @pawzedev_
 
 🔗 Links:
 <br>
