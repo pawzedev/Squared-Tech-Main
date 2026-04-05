@@ -19,4 +19,5 @@ We support `HTML5`, `CSS`, `JavaScript`, `Python`, `Lua`/`Luau`, `JSON`, `XML`, 
 **E-Mail**: techsquare@protonmail.com
 
 🔗 Links:
+<br>
 There are currently **no links** for this *repository*.
