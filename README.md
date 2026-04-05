@@ -17,6 +17,8 @@ We support `HTML5`, `CSS`, `JavaScript`, `Python`, `Lua`/`Luau`, `JSON`, `XML`, 
 **YouTube**: https://www.youtube.com/@pawzedev
 <br>
 **E-Mail**: techsquare@protonmail.com
+<br>
+**Discord**: @pawzedev_
 
 🔗 Links:
 <br>
