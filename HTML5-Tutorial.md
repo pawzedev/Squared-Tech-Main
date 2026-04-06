@@ -1,7 +1,7 @@
 # Tech²: HTML5 Tutorials and Support 🔖
 <a href="https://www.github.com/pawzedev/Squared-Tech-Main/blob/main/README.md">Back to Main File</a>
 ## 01. What is HTML5?
-`HTML5` is a **programming language** useful to build websites. The *extension* to *HTML5* is `.html`. We will explain more about extensions **soon**.
+`HTML5` is a **markup language** useful to build websites. The *extension* to *HTML5* is `.html`. We will explain more about extensions **soon**.
 ## 02. HTML5: Main Structure 🏗️
 All `HTML5` scripts always have the same structure:
 ```
